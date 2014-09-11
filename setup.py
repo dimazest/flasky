@@ -11,7 +11,7 @@ setup(
     url='https://github.com/dimazest/flasky_theme',
     author='F. Javier Alba',
     maintainer="Dmitrijs Milajevs",
-    mantainer_email="dimazest@gmail.com",
+    maintainer_email="dimazest@gmail.com",
     description='A modified flasky theme by F. Javier Alba',
     long_description=long_description,
     # license='MIT',
