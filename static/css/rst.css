@@ -8,11 +8,18 @@ Stylesheet for use with Docutils.
 
 @import url(html4css1.css);
 
-div.warning {
-    background: none repeat scroll 0 0 #FFF7CC;
+div.warning, div.note {
     margin: 2em;
     padding: 1em;
     border: none;
+}
+
+div.warning{
+    background: none repeat scroll 0 0 #FFF7CC;
+}
+
+div.note {
+    background: none repeat scroll 0 0 #FFF7CC;
 }
 
 div.formula {
